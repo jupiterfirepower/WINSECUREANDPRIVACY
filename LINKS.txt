@@ -1,0 +1,43 @@
+https://github.com/DNSCrypt/dnscrypt-proxy
+
+https://dnscrypt.info/public-servers/
+
+SUPERAntiSpyware
+OOSU10
+
+google: https://dns.google.com/experimental
+
+cloudflare: https://cloudflare-dns.com/dns-query
+
+quad9: https://dns.quad9.net/dns-query
+
+securedns_eu: https://doh.securedns.eu/dns-query
+
+dnswarden_adblock: https://doh.dnswarden.com/adblock
+
+dnswarden_uncensored: https://doh.dnswarden.com/uncensored
+
+ODOH
+Resolver in  Amsterdam.  Non-logging, non-filtering, DNSSEC.
+Target :  https://odoh-target.alekberg.net
+Relay (Proxy) :  https://odoh-nl.alekberg.net
+Resolver in  Sweden.  Non-logging, non-filtering, DNSSEC.
+Target :  https://odoh-target-se.alekberg.net
+Resolver in  Spain. 
+Relay (Proxy) :  https://odoh-es.alekberg.net
+
+ipv4_servers = true
+ipv6_servers = false
+dnscrypt_servers = true
+doh_servers = false
+odoh_servers = true
+
+[anonymized_dns]
+    routes = [
+    { server_name='scaleway-fr', via=['anon-ams-nl', 'anon-cs-de2', 'anon-cs-fr', 'anon-cs-se', 'anon-meganerd', 'anon-pwoss.org'] },
+    { server_name='dnscrypt.be', via=['anon-ams-nl', 'anon-cs-de2', 'anon-cs-fr', 'anon-cs-se', 'anon-meganerd', 'anon-pwoss.org'] },
+    { server_name='dnscrypt.eu-nl', via=['anon-ams-nl', 'anon-cs-de2', 'anon-cs-fr', 'anon-cs-se', 'anon-meganerd', 'anon-pwoss.org'] },
+    { server_name='odoh-koki-ams', via=['odohrelay-crypto-sx', 'odohrelay-surf'] },
+    { server_name='odoh-resolver4.dns.openinternet.io', via=['odohrelay-crypto-sx', 'odohrelay-koki-ams'] }
+ ]
+skip_incompatible = true

@@ -1,0 +1,14 @@
+https://dnscrypt.info/public-servers/
+
+google: https://dns.google.com/experimental
+
+cloudflare: https://cloudflare-dns.com/dns-query
+
+quad9: https://dns.quad9.net/dns-query
+
+securedns_eu: https://doh.securedns.eu/dns-query
+
+dnswarden_adblock: https://doh.dnswarden.com/adblock
+
+dnswarden_uncensored: https://doh.dnswarden.com/uncensored
+

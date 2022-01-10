@@ -1,0 +1,2 @@
+G:\Tor Browser1103\Browser\TorBrowser\Data\Browser\profile.default
+Checked for Tor version - 11.03 

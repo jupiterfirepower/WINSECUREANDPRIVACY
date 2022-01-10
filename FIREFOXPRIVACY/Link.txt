@@ -1,0 +1,5 @@
+https://github.com/pyllyukko/user.js
+
+C:\Users\[username]\AppData\Roaming\Mozila\Firefox\Profiles\[random].default-release
+
+Firefox versionn - 95.xxx

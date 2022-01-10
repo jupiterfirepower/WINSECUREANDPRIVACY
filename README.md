@@ -27,15 +27,24 @@ dd.statdynamic.com - 3<br>
 <img src="/img/dnstree.png" title="hover text">
 <img src="/img/dnshierarchy.png" title="hover text">
 </p>
+<p align="left">
+<img src="/img/single-router-setup.jpg" title="hover text">
+</p>
+<p align="left">
+<img src="/img/vpn.jpg" title="hover text">
+</p>
+<p align="left">
+<img src="/img/firewall.png" title="hover text">
+</p>
 for dnscrypt-proxy-2.1.1<br>
 data 1.2MB(wildcard-dns-statistics-processed-result-dict-distinct.txt) for insert into blocked-names.txt file<br>
 <br>
 Windows 10 Security for Home<br>
 Minimum<br>
-Windows + Secure DNS(dnscrypt-proxy-2 + Antivirus + ASUS Wifi Router(for Home)- ISP(Internet Service Provider)<br>
+Windows + Secure DNS(dnscrypt-proxy-2) + Firewall + Antivirus(with Firewall) + ASUS Wifi Router(for Home)- ISP(Internet Service Provider)<br>
 Windows + Secure DNS (dnscrypt-proxy-2 <b>best choice(from my point of view)</b>)<br>
 + Antivirus(BitDefender, Norton or McCafe etc) + Wifi Router ASUS(<b>best choice(from my point of view)</b> <br>
-- most secure, protected from Dos DDos attacks(+Firewall and VPN) with VPN.<br>
+- most secure, protected from Dos DDos attacks(+Firewall and VPN) with AI.<br>
 Privacy - Disable All Windows Telemetry.<br>
 <br>
 Tor Browser - use ODoH servers (<b>the Tor network is not completely secure - hacked by Hackers</b>)<br>

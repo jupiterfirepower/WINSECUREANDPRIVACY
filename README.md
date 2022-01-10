@@ -19,6 +19,14 @@ dd.statdynamic.com - 3<br>
 *.statdynamic.com<br>
 *.adx[0-9].com<br>
 <br>
+<p align="left">
+<img src="/img/wtld.jpg" title="hover text">
+</p>
+<br>
+<p align="left">
+<img src="/img/dnstree.png" title="hover text">
+<img src="/img/dnshierarchy.png" title="hover text">
+</p>
 for dnscrypt-proxy-2.1.1<br>
 data 1.2MB(wildcard-dns-statistics-processed-result-dict-distinct.txt) for insert into blocked-names.txt file<br>
 <br>

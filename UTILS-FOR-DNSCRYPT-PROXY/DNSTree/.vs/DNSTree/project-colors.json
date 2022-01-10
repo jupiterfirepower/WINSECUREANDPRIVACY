@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2dd48792-43c4-4ff8-80d6-e6a46ba2f7a9": {
+      "ProjectGuid": "2dd48792-43c4-4ff8-80d6-e6a46ba2f7a9",
+      "DisplayName": "DNSTree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

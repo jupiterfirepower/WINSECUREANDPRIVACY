@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "249ad452-1add-46c5-a1a3-7272c7d6d1cc": {
+      "ProjectGuid": "249ad452-1add-46c5-a1a3-7272c7d6d1cc",
+      "DisplayName": "UpdateDNSBlockList",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

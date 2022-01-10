@@ -1,0 +1,61 @@
+"https://hosts.ubuntu101.co.za/hosts.windows"|"ubuntu.txt"|"# START HOSTS LIST"|"127.0.0.1 "
+"https://hosts.ubuntu101.co.za/superhosts.deny"|"super.txt"|"# ##### START Super hosts.deny"|"ALL: "
+"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"|"2o7.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"|"adblocknocoin_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts"|"risk_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts"|"spam_host.txt"|String.Empty|"0.0.0.0 "
+"https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"|"simple_ad_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts"|"antipopads_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"|"anudeepND_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Bad_JAV_Sites/master/domains.list"|"Bad_JAV_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/domains"|"Badd-Boyz_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/blacklist/master/domains.list"|"Blacklist_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/master/domains.list"|"cameleon_at_sysctl_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"|"hostsVN_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/justdomains_mirror1.malwaredomains.com/master/domains.list"|"malwaredomains_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/KADhosts_azet12/master/domains.list"|"KADhosts_azet12_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/lightswitch05_hosts_ads-and-tracking-extended/master/domains.list"|"lightswitch05_hosts_ads_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/MalwareDomainList.com/master/domains.list"|"MalwareDomainList_hosts_ads_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts/master/domains.list"|"Michael_Trimms_hosts_ads_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/master/domains.list"|"MinimalHostsBlocker_hosts_ads_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Phishing.Database/master/domains.list"|"MinimalHostsBlocker_hosts_ads_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/pl-host-file/master/domains.list"|"pl-host_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/master/domains.list"|"quidsup_malicious_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/master/domains.list"|"quidsup_notrack_trackers_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/smed79_blacklist/master/domains.list"|"smed79_blacklists_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Spam404/master/domains.list"|"spam404_blacklists_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/The-Big-List-of-Hacked-Malware-Web-Sites/master/domains.list"|"Hacked-Malware_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/WaLLy3K_Blacklist/master/domains.list"|"Hacked-Malware_host.txt"|String.Empty|String.Empty|output_path
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/YousList/master/domains.list"|"YousList_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/master/domains.list"|"ZeroDot1_CoinBlocker_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"|"adservers_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt"|"facebook_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt"|"coinminer_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"|"stevenblack_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts"|"fakenews_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts"|"gambling_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts"|"social_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts"|"fakenews-gambling_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"|"stevenblack_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt"|"adaway_host.txt"|String.Empty|"127.0.0.1 "
+"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"|"2o7net_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts"|"adddead_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts"|"addrisk_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts"|"addspam_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt"|"cdt_host.txt"|String.Empty|String.Empty
+"https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"|"Badd-Boyz_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN"|"hostsVN_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"|"KADhosts_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt"|"eth-phishing_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt"|"minecraft-hosts_host.txt"|String.Empty|"0.0.0.0 "
+"https://winhelp2002.mvps.org/hosts.txt"|"winhelp2002_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt"|"piHole1_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts"|"shady-hosts_host.txt"|String.Empty|"0.0.0.0 "
+"https://someonewhocares.org/hosts/zero/hosts"|"someonewhocares_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/tiuxo/hosts/master/ads"|"tiuxo_host.txt"|String.Empty|"0.0.0.0 "
+"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts"|"UncheckyAds_host.txt"|String.Empty|"0.0.0.0 "
+"https://urlhaus.abuse.ch/downloads/hostfile/"|"UncheckyAds_host.txt"|String.Empty|"127.0.0.1  "
+"https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0"|"yoyo_host.txt"|String.Empty|"0.0.0.0 "
+"https://malwareworld.com/textlists/suspiciousDomains.txt"|"500_host.txt"|String.Empty|String.Empty
+"https://data.iana.org/TLD/tlds-alpha-by-domain.txt"|"BADTLD_host.txt"|String.Empty|String.Empty
+"https://github.com/T145/black-mirror/releases/download/latest/black_domain.txt"|"black_domain.txt"|String.Empty|String.Empty

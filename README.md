@@ -1,4 +1,7 @@
 "# Windows 10 Security and Privacy"<br> 
+dnscrypt-proxy 2<br> 
+https://github.com/DNSCrypt/dnscrypt-proxy<br> 
+Download - https://github.com/DNSCrypt/dnscrypt-proxy/releases/tag/2.1.1<br>
 <br>
 result_dnsf.txt 163MB split into two files:<br>
 multi-point-dns-result-filtered.txt - 98MB<br> 
@@ -41,7 +44,7 @@ data 1.2MB(wildcard-dns-statistics-processed-result-dict-distinct.txt) for inser
 <br>
 Windows 10 Security for Home<br>
 Minimum<br>
-Windows + Secure DNS(dnscrypt-proxy-2) + Firewall + Antivirus(with Firewall) + ASUS Wifi Router(for Home)- ISP(Internet Service Provider)<br>
+Windows + Secure DNS(dnscrypt-proxy-2) + Antivirus(with Firewall) + ASUS Wifi Router(for Home)- ISP(Internet Service Provider)<br>
 Windows + Secure DNS (dnscrypt-proxy-2 <b>best choice(from my point of view)</b>)<br>
 + Antivirus(BitDefender, Norton or McCafe etc) + Wifi Router ASUS(<b>best choice(from my point of view)</b> <br>
 - most secure, protected from Dos DDos attacks(+Firewall and VPN) with AI.<br>
@@ -52,4 +55,25 @@ Firefox - use ODoH servers in settings see FIREFOXPRIVACY user.js file<br>
 Brave - DoH servers.<br>
 <br>
 Best Windows browsers(from my point of view) - Brave, Firefox, Vivaldi, Microsoft Edge, Google Chrome.<br>
+<br>
+<p align="left">
+<img src="/img/uresult.png" title="hover text">
+</p>
+<p align="left">
+<img src="/img/outputr.png" title="hover text">
+</p>
+<p align="left">
+<img src="/img/wlevel.png" title="hover text">
+</p>
+ISP(Internet Service Provider) can see IP address
+When you use ODoH or DoH servers or dnscrypt ISP still sees ip addresses... (but you protect from middle hackers attacks)
+and ISP can get domain names by reverse - get domain names by IP addreses. 
+When you use TorBrowser ISP see only server IP all traffic crypt.
+When you use VPN ISP see only VPN server IP all traffic crypt.
+<p align="left">
+<img src="/img/ipheader.png" title="hover text">
+</p>
+<p align="left">
+<img src="/img/cipv4ipv6.png" title="hover text">
+</p>
 

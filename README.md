@@ -65,11 +65,11 @@ Best Windows browsers(from my point of view) - Brave, Firefox, Vivaldi, Microsof
 <p align="left">
 <img src="/img/wlevel.png" title="hover text">
 </p>
-ISP(Internet Service Provider) can see IP address
-When you use ODoH or DoH servers or dnscrypt ISP still sees ip addresses... (but you protect from middle hackers attacks)
-and ISP can get domain names by reverse - get domain names by IP addreses. 
-When you use TorBrowser ISP see only server IP all traffic crypt.
-When you use VPN ISP see only VPN server IP all traffic crypt.
+ISP(Internet Service Provider) can see IP address<br>
+When you use ODoH or DoH servers or dnscrypt ISP still sees ip addresses... (but you protect from middle hackers attacks)<br>
+and ISP can get domain names by reverse - get domain names by IP addreses.<br> 
+When you use TorBrowser ISP see only server IP all traffic crypt.<br>
+When you use VPN ISP see only VPN server IP all traffic crypt.<br>
 <p align="left">
 <img src="/img/ipheader.png" title="hover text">
 </p>

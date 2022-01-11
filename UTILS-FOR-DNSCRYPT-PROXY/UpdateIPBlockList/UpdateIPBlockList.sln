@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "UpdateIPBlockList", "UpdateIPBlockList\UpdateIPBlockList.fsproj", "{E4DDF0D9-C163-496A-BFC1-5F7B37E23EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4DDF0D9-C163-496A-BFC1-5F7B37E23EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DDF0D9-C163-496A-BFC1-5F7B37E23EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DDF0D9-C163-496A-BFC1-5F7B37E23EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DDF0D9-C163-496A-BFC1-5F7B37E23EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F335D76D-CC97-4E1D-B93B-8638B802FC97}
+	EndGlobalSection
+EndGlobal
